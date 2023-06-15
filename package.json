@@ -1,0 +1,24 @@
+{
+  "name": "api_automation",
+  "version": "1.0.0",
+  "description": "automation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm mocha test"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest"
+  ],
+  "author": "adam",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
